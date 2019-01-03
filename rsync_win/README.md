@@ -2,8 +2,8 @@
 
 This creates a standard Windows installer for cwRsync
 
-* The only prerequisite is NSIS installed, available at http://nsis.sourceforge.net/Download NOT NECESSARY!!
-* Tested on Windows 7
+<del>* The only prerequisite is NSIS installed, available at http://nsis.sourceforge.net/Download  <del>
+* Tested on Windows 7 and Windows XP SP3
 
 
 For execute:
